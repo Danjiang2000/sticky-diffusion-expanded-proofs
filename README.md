@@ -6,7 +6,7 @@ article:
 **A Modified Euler–Maruyama Method to Simulate a General
 One-Dimensional Sticky Diffusion**
 
-by Chenqi (Dan) Jiang and Miranda Holmes-Cerfon.
+by Chenqi Jiang and Miranda Holmes-Cerfon.
 
 ## Purpose
 
